@@ -1,0 +1,6 @@
+E:\Dotnettraining\WindowsAssign\CalculatorLib\CalculatorLib\bin\Debug\CalculatorLib.dll
+E:\Dotnettraining\WindowsAssign\CalculatorLib\CalculatorLib\bin\Debug\CalculatorLib.pdb
+E:\Dotnettraining\WindowsAssign\CalculatorLib\CalculatorLib\obj\Debug\CalculatorLib.csprojAssemblyReference.cache
+E:\Dotnettraining\WindowsAssign\CalculatorLib\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\WindowsAssign\CalculatorLib\CalculatorLib\obj\Debug\CalculatorLib.dll
+E:\Dotnettraining\WindowsAssign\CalculatorLib\CalculatorLib\obj\Debug\CalculatorLib.pdb

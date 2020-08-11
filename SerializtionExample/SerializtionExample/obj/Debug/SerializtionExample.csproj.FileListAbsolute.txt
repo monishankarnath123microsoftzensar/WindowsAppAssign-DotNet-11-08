@@ -1,0 +1,10 @@
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\bin\Debug\SerializtionExample.exe.config
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\bin\Debug\SerializtionExample.exe
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\bin\Debug\SerializtionExample.pdb
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\bin\Debug\CalculatorLib.dll
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\bin\Debug\CalculatorLib.pdb
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\obj\Debug\SerializtionExample.csprojAssemblyReference.cache
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\obj\Debug\SerializtionExample.csproj.CoreCompileInputs.cache
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\obj\Debug\SerializtionExample.csproj.CopyComplete
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\obj\Debug\SerializtionExample.exe
+E:\Dotnettraining\WindowsAssign\SerializtionExample\SerializtionExample\obj\Debug\SerializtionExample.pdb
